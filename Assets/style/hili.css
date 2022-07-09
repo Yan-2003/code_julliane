@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins, sans-serif;
+}
+
+
+.head{
+    padding: 5rem 3rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}
+
+.contents{
+    text-align: center;
+    margin: 5rem;
+    font-size: 30px;
+}
